@@ -15,11 +15,11 @@ Welcome to my personal coding journal! This repository documents everything I le
 - Arrays, Strings, Recursion
 - Dynamic Programming, Trees, Graphs
 - Sliding Window, Greedy, Two Pointers
-- System Design basics
 
 ## 🌐 Platforms
- [Leetcode](https://leetcode.com/RuchikaRuhanshi)
- [Codeforces](https://codeforces.com/)
+
+[![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/RuchikaRuhanshi/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ruhanshi_r)
 
 ---
 
