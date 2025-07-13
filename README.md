@@ -24,7 +24,7 @@ Welcome to my personal coding journal! This repository documents everything I le
 ---
 
 ## 📈 Progress
-Track my goals in [`Progress.md`](./Progress.md)
+Track my goals in [`Progress.md`](./Progresss.md)
 
 ## 🙌 Let’s Connect
 Feel free to fork, star ⭐, or follow me on GitHub!
