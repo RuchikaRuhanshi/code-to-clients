@@ -1,3 +1,5 @@
+Rename progresss.md to Tracker.md
+
 # 📈 DSA Progress Tracker
 
 This file tracks my learning journey in Data Structures & Algorithms. It includes concepts, problem-solving milestones, and weekly goals.
