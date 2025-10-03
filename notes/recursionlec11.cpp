@@ -39,6 +39,8 @@ using namespace std;
 //     return 0;
 // }
 
+
+// Palindrome check
 bool f(int i, int n, string &s) {
     if (i >= n/2) return true;                
     if (s[i] != s[n-i-1]) return false;       
@@ -51,9 +53,6 @@ int main() {
     string s;
     cin >> s;                                 
 
-    if (f(0, n, s))
-        cout << "Palindrome";
-    else
-        cout << "Not Palindrome";
+    cout<< f(0, n, s);
     return 0;
 }
