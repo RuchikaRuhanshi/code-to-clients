@@ -1,8 +1,9 @@
+//Multiple recursion
 #include<bits/stdc++.h>
 using namespace std;
 int f(int n){
-	if (n<=1) return n;
-    return f(n-1)+f(n-2);
+	if (n<=1) return n;    
+    return f(n-1)+f(n-2);      //first the f(n-1) recursion is completed in every step and returns a value before f(n-2)
 }
 int main()
 {
