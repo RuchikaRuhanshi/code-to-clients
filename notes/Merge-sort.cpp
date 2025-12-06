@@ -23,7 +23,7 @@ void mergeArray(int arr[], int l, int mid, int h) {
   }
 }
 
-void mergeSort(int arr[], int l, int h) {
+void mergeSort(int arr[], int l, int h) {                                   // Time complexity: O(nlogn)
   if (l >= h)
     return;
 
