@@ -1,61 +1,44 @@
-# 📈 DSA Progress Tracker
+# 📈 Web Development Progress Tracker
 
-This file tracks my learning journey in Data Structures & Algorithms. It includes concepts, problem-solving milestones, and weekly goals.
-
----
-
-## 🗂️ Topics Covered
-
-| # | Topic                             | Notes | Practice | Revision     | Status   |
-|---|-----------------------------------|-------|----------|--------------|-----------------|
-| 1 | Basic Maths                       | ✅     | ⬜        | ⬜        | 🟢 Done |
-| 2 | Arrays                            | ⬜     | ⬜        | ⬜        | 🟡 In Progress |
-| 3 | Strings                           | ⬜     | ⬜        | ⬜        | 🔴 Not Started |
-| 4 | Recursion & Backtracking          | ⬜     | ⬜        | ⬜        | 🔴 Not Started |
-| 5 | Searching & Sorting               | ⬜     | ⬜        | ⬜        | 🔴 Not Started |
-| 6 | Linked Lists                      | ⬜     | ⬜        | ⬜        | 🔴 Not Started |
-| 7 | Stacks & Queues                   | ⬜     | ⬜        | ⬜        | 🔴 Not Started |
-| 8 | Trees                             | ⬜     | ⬜        | ⬜        | 🔴 Not Started |
-| 9 | Graphs                            | ⬜     | ⬜        | ⬜        | 🔴 Not Started |
-| 10 | Dynamic Programming              | ⬜     | ⬜        | ⬜        | 🔴 Not Started |MMMMMMMMMM
-
-## ✅ Goals
-
-- [x] Finish basic DSA notes
-- [ ] Solve 10+ problems on Leetcode
-- [ ] Attempt contests regularly
-- [ ] Build topic-wise revision sheets
-- [ ] Refactor old solutions and reattempt
+This file tracks my weekly progress, topic completion, projects, and learning milestones as part of the **`code-to-client`** journey.
 
 ---
 
-## 📅 Weekly Log
+## 🗓️ Weekly Log
 
-| Week | Focus Areas        | Problems Solved | Highlights / Learnings               |
-|------|--------------------|------------------|--------------------------------------|
-| 1    | Basic Maths        |        1         | Palindrome,  |
-| 2    | Arrays, Strings    |                  |                                      |
-| 3    |                    |                  |                                      |
-| 4    |                    |                  |                                      |
+| Week | Focus Areas         | Projects/Challenges Completed |
+|------|---------------------|-------------------------------|
+| 1    |  Java script        |    Todo list                  |
+| 2    |  Taiwlind practice  |    Todo list                  |
+| 3    |  React essentials   |                               |
+| 4    |                     |                               |
 
----
-
-## 🏁 Platform Stats
-
-| Platform     | Solved | Profile |
-|--------------|--------|---------|
-| Leetcode     |   1    | [Visit →](https://leetcode.com/RuchikaRuhanshi) |
-| Codeforces   |      2 | [Visit →](https://codeforces.com/profile/ruhanshi_r) |
 
 ---
 
-## 📌 Notes to Self
+## 🧩 Topic Completion Tracker
 
-- Use spaced repetition for tough topics.
-- Revisit failed contest problems.
-- Don’t copy—solve, even if slow.
-- Review notes every Sunday night.
+| Topic                  | Notes | Practice | Revision | Status         |
+|------------------------|-------|----------|----------|----------------|
+| HTML Basics            | ✅     | ✅        | ✅        | 🟢 Completed    |
+| CSS Basics             | ✅     | ⬜        | ⬜        | 🟢 Completed    |
+| Flexbox & Grid         | ✅     | ⬜        | ⬜        | 🟢 Completed    |
+| Responsive Design      | ✅     | ⬜        | ⬜        | 🟡 In Progress  |
+| JavaScript Essentials  | ✅     | ⬜        | ⬜        | 🟡 In Progress  |
+| Tailwind CSS           | ✅     | ⬜        | ⬜        | 🟡 In Progress  |
+| DOM Manipulation       | ⬜     | ⬜        | ⬜        | 🔴 Not Started  |
+| JavaScript Projects    | ⬜     | ⬜        | ⬜        | 🔴 Not Started  |
+| React Basics           | ✅     | ⬜        | ⬜        | 🟡 In Progress  |
+| React Hooks & Routing  | ⬜     | ⬜        | ⬜        | 🔴 Not Started  |
+| Git & GitHub           | ⬜     | ⬜        | ⬜        | 🟡 In Progress  |
+| Deployment Methods     | ⬜     | ⬜        | ⬜        | 🔴 Not Started  |
 
 ---
 
-> “Focus on effort, not perfection.”
+## 🎯 Learning Goals
+
+- [ ] Complete all frontend basics
+- [ ] Build and deploy 3+ mini projects
+- [ ] Learn core React concepts
+- [ ] Practice responsive UI designs
+- [ ] Deploy a portfolio site
