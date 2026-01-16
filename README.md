@@ -1,28 +1,30 @@
-# 🚀 Developers diary
-**`Developers-diary`** is my personal web development repository documenting the journey from writing clean code to delivering user-ready experiences.  
-This repo includes notes, coding logs, and deployment strategies — everything I’m learning and building along the way.
+# 👨‍💻 My Coding Journey 🚀
+
+Welcome to my personal coding journal! This repository documents everything I learn and practice on my path to becoming a better problem solver and software engineer.
+
+## 🧠 What's Inside
+
+📘 **DSA Notes** – Clean, organized concepts and patterns  
+💻 **Code** – Leetcode, Codeforces, and other practice problems  
+🗓️ **Daily Logs** – 100 Days of Code logs & personal progress  
+📊 **Progress Tracker** – Topic-wise and challenge-wise goals
+
 ---
-## 🛠️ Tech Stack
-- 🧱 **HTML5, CSS3**
-- ⚙️ **JavaScript (ES6+)**
-- 🧠 **Version Control with Git & GitHub**
+
+## 🧩 Topics I'm Covering
+- Arrays, Strings, Recursion
+- Dynamic Programming, Trees, Graphs
+- Sliding Window, Greedy, Two Pointers
+
+## 🌐 Platforms
+
+[![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/RuchikaRuhanshi/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ruhanshi_r)
+
 ---
-## 📁 Folder Structure
-```bash
-code-to-client/
-├── HTML-CSS/              # Styling, layouts, UI clones
-├── JavaScript/            # Logic, DOM manipulation, projects
-├── React/                 # Components, hooks, apps
-├── Deployment/            # Hosting & CI/CD guides
-├── Logs/                  # Daily/Weekly learning logs
-├── Progress.md            # My topic-wise progress tracker
-└── README.md              # This file
-```
----
-## 📈 Progress Tracker
-You can view my full learning and project progress here:
-👉 [`progresss.md`](./progresss.md)
-It includes:
-- ✅ Topic-wise completion
-- 📆 Weekly logs
-- 🎯 Goals & revision tracking
+
+## 📈 Progress
+Track my goals in [`progresss.md`](./progresss.md)
+
+## 🙌 Let’s Connect
+Feel free to fork, star ⭐, or follow me on GitHub!
