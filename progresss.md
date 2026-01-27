@@ -3,7 +3,7 @@ This file tracks my learning journey in Data Structures & Algorithms. It include
 ---
 ## 🗂️ Topics Covered
 | # | Topic                             | Notes   | Practice    | Revision   | Status          |
-|---|-----------------------------------|---------|-------------|---------=--|-----------------|
+|---|-----------------------------------|---------|-------------|------------|-----------------|
 | 1 | Basic Maths                       | ✅     | ✅        | ⬜          | 🟢 Done        |
 | 2 | Arrays                            | ⬜     | ⬜        | ⬜          | 🟡 In Progress |
 | 3 | Strings                           | ⬜     | ⬜        | ⬜          | 🔴 Not Started |
