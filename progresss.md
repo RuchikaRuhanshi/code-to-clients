@@ -24,9 +24,9 @@ This file tracks my learning journey in Data Structures & Algorithms. It include
 ---
 
 ## 📅 Weekly Log
-| Week | Focus Areas        | Problems Solved | Highlights / Learnings               |
+| Week | Focus Areas        | Problems Solved  | Highlights / Learnings               |
 |------|--------------------|------------------|--------------------------------------|
-| 1    | Basic Maths        |        1         | Palindrome,  |
+| 1    | Basic Maths        |        1         | Palindrome,                          |
 | 2    | Arrays, Strings    |                  |                                      |
 | 3    |                    |                  |                                      |
 | 4    |                    |                  |                                      |
