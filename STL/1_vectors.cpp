@@ -5,6 +5,9 @@ int main(){
 // METHOD 1 OF initialization of vector
     vector<int> vec = {1,2,3,4,5};
 
+// METHOD 2 OF initialization of vector
+   vector<int> vec(3, 10);                   // used in dynamic programming, prints 10 each for size of 3
+
 // METHOD 3 OF initialization of vector
     vector<int> vec1 (vec);
 
@@ -13,7 +16,7 @@ int main(){
 //  FORWORD LOOP
 
  vector <int> :: iterator it;
-    for (it = vec1.begin() ; it !=vec1.end();it++){
+    for (it = vec.begin() ; it !=vec.end();it++){
         cout<<*(it)<<" ";
     }
 
