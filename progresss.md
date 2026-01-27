@@ -2,18 +2,18 @@
 This file tracks my learning journey in Data Structures & Algorithms. It includes concepts, problem-solving milestones, and weekly goals.
 ---
 ## 🗂️ Topics Covered
-| # | Topic                             | Notes | Practice | Revision     | Status   |
-|---|-----------------------------------|-------|----------|--------------|-----------------|
-| 1 | Basic Maths                       | ✅     | ✅        | ⬜        | 🟢 Done |
-| 2 | Arrays                            | ⬜     | ⬜        | ⬜        | 🟡 In Progress |
-| 3 | Strings                           | ⬜     | ⬜        | ⬜        | 🔴 Not Started |
-| 4 | Recursion & Backtracking          | ⬜     | ⬜        | ⬜        | 🔴 Not Started |
-| 5 | Searching & Sorting               | ⬜     | ⬜        | ⬜        | 🔴 Not Started |
-| 6 | Linked Lists                      | ⬜     | ⬜        | ⬜        | 🔴 Not Started |
-| 7 | Stacks & Queues                   | ⬜     | ⬜        | ⬜        | 🔴 Not Started |
-| 8 | Trees                             | ⬜     | ⬜        | ⬜        | 🔴 Not Started |
-| 9 | Graphs                            | ⬜     | ⬜        | ⬜        | 🔴 Not Started |
-| 10 | Dynamic Programming              | ⬜     | ⬜        | ⬜        | 🔴 Not Started |
+| # | Topic                             | Notes   | Practice    | Revision   | Status          |
+|---|-----------------------------------|---------|-------------|------------|-----------------|
+| 1 | Basic Maths                       | ✅     | ✅        | ⬜          | 🟢 Done        |
+| 2 | Arrays                            | ⬜     | ⬜        | ⬜          | 🟡 In Progress |
+| 3 | Strings                           | ⬜     | ⬜        | ⬜          | 🔴 Not Started |
+| 4 | Recursion & Backtracking          | ⬜     | ⬜        | ⬜          | 🔴 Not Started |
+| 5 | Searching & Sorting               | ⬜     | ⬜        | ⬜          | 🔴 Not Started |
+| 6 | Linked Lists                      | ⬜     | ⬜        | ⬜          | 🔴 Not Started |
+| 7 | Stacks & Queues                   | ⬜     | ⬜        | ⬜          | 🔴 Not Started |
+| 8 | Trees                             | ⬜     | ⬜        | ⬜          | 🔴 Not Started |
+| 9 | Graphs                            | ⬜     | ⬜        | ⬜          | 🔴 Not Started |
+| 10 | Dynamic Programming              | ⬜     | ⬜        | ⬜          | 🔴 Not Started |
 
 ## ✅ Goals
 - [x] Finish basic DSA notes
@@ -26,17 +26,17 @@ This file tracks my learning journey in Data Structures & Algorithms. It include
 ## 📅 Weekly Log
 | Week | Focus Areas        | Problems Solved  | Highlights / Learnings               |
 |------|--------------------|------------------|--------------------------------------|
-| 1    | Basic Maths        |        1         | Palindrome,                          |
-| 2    | Arrays, Strings    |                  |                                      |
-| 3    |                    |                  |                                      |
+| 1    | Basic Maths        |        7         | Palindrome,                          |
+| 2    | STL                |                  |                                      |
+| 3    | Arrays, Strings    |        1         |                                      |
 | 4    |                    |                  |                                      |
 ---
 
 ## 🏁 Platform Stats
-| Platform     | Solved | Profile |
-|--------------|--------|---------|
-| Leetcode     |   1    | [Visit →](https://leetcode.com/RuchikaRuhanshi) |
-| Codeforces   |      2 | [Visit →](https://codeforces.com/profile/ruhanshi_r) |
+| Platform     | Solved | Profile                                                     |
+|--------------|--------|-------------------------------------------------------------|
+| Leetcode     |   1    | [Visit →](https://leetcode.com/RuchikaRuhanshi)             |
+| Codeforces   |   2    | [Visit →](https://codeforces.com/profile/ruhanshi_r)        |
 ---
 
 ## 📌 Notes to Self
